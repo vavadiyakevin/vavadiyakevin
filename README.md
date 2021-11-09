@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @vavadiyakevin
 - 👀 I’m interested in Computers and information technology  security
 - 🌱 I’m currently learning cyber security penetration testing
-- 📫 How to reach me on twitter @vavadiyakevin
+- 📫 reach me on twitter @vavadiyakevin
